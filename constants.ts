@@ -1,0 +1,25 @@
+
+export const REQUIRED_SECTIONS = [
+  "Target Persona (One Line)",
+  "3-Layer Hook",
+  "Title",
+  "Thumbnail (Text & Visual Prompt)",
+  "Spoken Hook (First 3 Seconds)",
+  "Description (Long)",
+  "Description (Short)",
+  "Tags",
+  "Primary Keywords",
+  "Supporting Keywords",
+  "Long-Tail Keywords",
+  "Chapters",
+  "Story Beats (Story → Insight → 1-Sentence Fix)",
+  "Objection Flip",
+  "Implementation Plan (Today → Week)",
+  "Open Questions (for retention)",
+  "Share Triggers",
+  "Pinned Comment",
+  "Boundary/Action Phrases (On Screen)",
+  "End Screen & Cards",
+  "Upload Checklist (US)",
+  "Metadata JSON"
+] as const;

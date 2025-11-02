@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Content Optimizer SEO",
+  "description": "An application that takes a raw video script and uses AI to generate a complete, SEO-optimized YouTube content package, including titles, descriptions, tags, and metadata, tailored for a US audience.",
+  "requestFramePermissions": []
+}
