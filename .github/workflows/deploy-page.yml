@@ -20,6 +20,9 @@ jobs:
           node-version: '20'
           cache: 'npm'
 
+      - name: Create lock file
+        run: npm install
+
       - name: Install Dependencies
         run: npm ci
 
